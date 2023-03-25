@@ -1,2 +1,2 @@
 # nybblez0x42697A.github.io
-Welcome to XpertDev, the portfolio of Nybblez.
+Welcome to XpertDev.info, the portfolio of Nybblez, an aspiring embedded software developer with a passion for programming and technology. Explore a diverse range of projects, including personal and professional work, collections of scripts to automate everyday tasks, and innovative solutions for Futures trading automation. Join the journey into the world of embedded development and discover the curiosity, skills, and creativity that fuel each project.
